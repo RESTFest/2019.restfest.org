@@ -1,0 +1,155 @@
+{
+  "title": "Greenville, SC, USA - September 26 - 29, 2018",
+  "wiki": "https://github.com/RESTFest/2018-Greenville/wiki",
+  "sponsors": {
+    "HEAD": [
+      {
+        "name": "CA, Inc.",
+        "image": "/images/cainc.png",
+        "description": "<a href=\"https://ca.com/\" target=\"_blank\">CA, Inc.</a> has been the proud sponsor of the <a href=\"http://videos.restfest.org/\">REST Fest Videos Project</a> since 2012. Their sponsorship has helped make nearly a half decades worth of REST Fest content available online!",
+        "url": "https://ca.com/"
+      }
+    ],
+    "PATCH": [
+      {
+        "name": "OpenAPI Intiative",
+        "url": "https://www.openapis.org/",
+        "image": "/images/openapis.png"
+      }
+    ],
+    "POST": [
+    ],
+    "PUT": [
+      {
+        "name": "SmartLogic",
+        "url": "https://smartlogic.io",
+        "image": "/images/smartlogic.png"
+      }
+    ],
+    "GET": [
+      {
+        "name": "Crowd Favorite",
+        "url": "https://crowdfavorite.com/",
+        "image": "/images/crowdfavorite.jpg"
+      },
+      {
+        "name": "John Wiley &amp; Sons, Inc.",
+        "url": "https://www.wiley.com/",
+        "image": "/images/wiley.png"
+      },
+      {
+        "name": "OpenWorks",
+        "url": "https://joinopenworks.com/",
+        "image": "/images/openworks.png"
+      }
+    ],
+    "rel_friend": [
+      {
+        "name": "API Handyman",
+        "url": "https://twitter.com/apihandyman",
+        "image": "//pbs.twimg.com/profile_images/966654273097490432/WPqaXZkf_400x400.jpg"
+      },
+      {
+        "name": "Mike Amundsen",
+        "url": "https://twitter.com/mamund",
+        "image": "//pbs.twimg.com/profile_images/340449683/madmen_icon_400x400.jpg"
+      },
+      {
+        "name": "ExVenture",
+        "url": "https://github.com/oestrich/ex_venture",
+        "image": "https://exventure.org/images/exventure.png"
+      },
+      {
+        "name": "Hyperfiddle",
+        "url": "http://www.hyperfiddle.net/"
+      },
+      {
+        "name": "njyx",
+        "image": "//pbs.twimg.com/profile_images/1021432660/191-191348_400x400.jpg",
+        "url": "https://twitter.com/njyx"
+      },
+      {
+        "name": "rhynodesigns",
+        "image": "//pbs.twimg.com/profile_images/852305333259206656/9f5nm_gA_400x400.jpg",
+        "url": "https://twitter.com/rhynodesigns"
+      }
+    ]
+  },
+  "speakers": [
+    {
+      "name": "Eric Oestrich",
+      "screen_name": "ericoestrich",
+      "profile_image_url": "//pbs.twimg.com/profile_images/1010752443326521344/BmsDdnm-_400x400.jpg"
+    },
+    {
+      "name": "Shelby Switzer",
+      "screen_name": "switzerly",
+      "profile_image_url": "//pbs.twimg.com/profile_images/886406345762590720/yRxm0eWA_400x400.jpg"
+    },
+    {
+      "name": "bigbluehat",
+      "screen_name": "bigbluehat",
+      "profile_image_url": "//pbs.twimg.com/profile_images/1122951400/logo_on_white_400x400.png"
+    },
+    {
+      "name": "Mike Amundsen",
+      "screen_name": "mamund",
+      "profile_image_url": "//pbs.twimg.com/profile_images/340449683/madmen_icon_400x400.jpg"
+    },
+    {
+      "name": "Ryan McAllen",
+      "screen_name": "rhynodesigns",
+      "profile_image_url": "//pbs.twimg.com/profile_images/852305333259206656/9f5nm_gA_400x400.jpg"
+    },
+    {
+      "name": "Jason Desrosiers",
+      "screen_name": "jasondesrosiers",
+      "profile_image_url": "//pbs.twimg.com/profile_images/439996213639643137/7Ee0jMLR_400x400.jpeg"
+    },
+    {
+      "name": "Tomasz Pluskiewicz",
+      "screen_name": "tpluscode",
+      "profile_image_url": "//pbs.twimg.com/profile_images/684777938785558529/iw_oqgCU_400x400.jpg"
+    },
+    {
+      "name": "Arnaud Lauret",
+      "screen_name": "apihandyman",
+      "profile_image_url": "//pbs.twimg.com/profile_images/966654273097490432/WPqaXZkf_400x400.jpg"
+    },
+    {
+      "name": "Bethany Oestrich",
+      "screen_name": "bethanyoestrich",
+      "profile_image_url": "//pbs.twimg.com/profile_images/970131439441227776/uwYTMJwH_400x400.jpg"
+    },
+    {
+      "name": "Doug Cone",
+      "screen_name": "nullvariable",
+      "profile_image_url": "//pbs.twimg.com/profile_images/843177459809837056/fFwdwjdH_400x400.jpg"
+    },
+    {
+      "name": "Dustin Getz",
+      "screen_name": "dustingetz",
+      "profile_image_url": "//pbs.twimg.com/profile_images/895709826461859840/J3DDfc3T_400x400.jpg"
+    },
+    {
+      "name": "Steven Willmott",
+      "screen_name": "njyx",
+      "profile_image_url": "//pbs.twimg.com/profile_images/1021432660/191-191348_400x400.jpg"
+    },
+    {
+      "name": "Kin Lane",
+      "screen_name": "kinlane",
+      "profile_image_url": "//pbs.twimg.com/profile_images/935340883574185984/bSgYI6rm_400x400.jpg"
+    },
+    {
+      "name": "Pamela Wood Browne",
+      "screen_name": "fancyBike",
+      "profile_image_url": "//pbs.twimg.com/profile_images/850435028609896450/z7ngyOPz_400x400.jpg"
+    },
+    {
+      "name": "Stephen Mizell",
+      "screen_name": "Stephen_Mizell",
+      "profile_image_url": "//pbs.twimg.com/profile_images/1039887663891853314/BxvL_qAs_400x400.jpg"
+    }
+  ]
+}

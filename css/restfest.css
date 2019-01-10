@@ -1,0 +1,69 @@
+/** REST Fest Overrides **/
+.ui.masthead .ui.menu {
+  border: none;
+}
+.ui.stripe.segment {
+  background: white;
+  padding: 2em 0;
+}
+.ui.stripe.quote.segment {
+  padding: 0;
+}
+
+.ui.primary.button {
+  background-color: #A5CB39;
+}
+#tito {
+  background-color: #F1F1F1;
+}
+.tito-wrapper {
+  margin: 0px;
+  height: 100%;
+  border: none;
+}
+.tito-wrapper form {
+  height: 90%;
+}
+.tito-tickets-button {
+  border: none;
+  background: none;
+}
+#map {
+  min-height: 200px;
+}
+div[typeof=Event] h1{
+  margin: 0;
+}
+div[typeof=Event] h3 {
+  margin-top: 0;
+}
+
+.ui.primary.button {
+    margin: 1em;
+}
+
+.ui.masthead.masthead--midwest {
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('/images/skyline-midwest.jpg');
+    background-position: center;
+}
+
+.ui.masthead.masthead--east {
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('/images/skyline-east.jpg');
+    background-position: center;
+}
+
+.ui.horizontal.list .item {
+    margin-bottom: 1em;
+}
+
+.faded {
+  opacity: 0.5;
+}
+
+.ui.image.smedium img,
+.ui.images.smedium img {
+  width: 200px !important;
+}
+
+/** from https://www.abeautifulsite.net/how-to-embed-youtubevimeo-videos-responsively **/
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }

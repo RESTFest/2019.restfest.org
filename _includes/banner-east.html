@@ -1,0 +1,39 @@
+  <div class="ui inverted vertical masthead center aligned segment masthead--east">
+    <div class="ui container">
+      <div class="ui large secondary inverted pointing menu stackable">
+        <a class="toc item">
+          <i class="sidebar icon"></i>
+        </a>
+        {% include navigation-items-east.html %}
+        <div class="right item">
+          <tito-button event="rest-fest/rest-fest-east-2018" class="ui inverted button">Register</tito-button>
+        </div>
+      </div>
+    </div>
+
+    <div class="ui text container">
+      {% if page.title == 'Home' %}
+      <h2>RESTful Web Services Unconference</h2>
+      {% endif %}
+      <h1 class="ui inverted header">
+        REST Fest East 2018
+      </h1>
+      {% if page.title == 'Home' %}
+      <div typeof="Event">
+        <meta property="name" content="REST Fest East" />
+        <h1>September 26 + 27-29<sup>th</sup></h1>
+        <h3 property="location" typeof="Place">
+          <span property="address" typeof="PostalAddress">
+            <span property="streetAddress">1 N Main St.</span>
+            <span property="addressLocality">Greenville</span>,
+            <span property="addressRegion">SC</span>
+          </span>
+        </h3>
+        <meta property="startDate" content="2018-09-26" />
+        <meta property="endDate" content="2018-09-29" />
+      </div>
+      {% endif %}
+      <tito-button event="rest-fest/rest-fest-east-2018" class="ui huge primary button">Register <i class="right arrow icon"></i></tito-button>
+    </div>
+  </div>
+

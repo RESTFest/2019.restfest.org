@@ -1,0 +1,75 @@
+{
+  "title": "Grand Rapids, MI, USA - April 20 - 21, 2018",
+  "wiki": "https://github.com/RESTFest/2018-Grand-Rapids/wiki",
+  "sponsors": {
+    "HEAD": [
+    ],
+    "PATCH": [
+    ],
+    "POST": [
+    ],
+    "PUT": [
+      {
+        "name": "SmartLogic",
+        "url": "https://smartlogic.io",
+        "image": "/images/smartlogic.png"
+      }
+    ],
+    "GET": [
+    ],
+    "rel_friend": [
+    ]
+  },
+  "speakers": [
+    {
+      "name": "Aaron Hedges",
+      "screen_name": "Dashron",
+      "profile_image_url": "//pbs.twimg.com/profile_images/984482844352409603/jSm1EpJO_400x400.jpg"
+    },
+    {
+      "name": "Eric Oestrich",
+      "screen_name": "ericoestrich",
+      "profile_image_url": "//pbs.twimg.com/profile_images/1010752443326521344/BmsDdnm-_400x400.jpg"
+    },
+    {
+      "name": "Shelby Switzer",
+      "screen_name": "switzerly",
+      "profile_image_url": "//pbs.twimg.com/profile_images/886406345762590720/yRxm0eWA_400x400.jpg"
+    },
+    {
+      "name": "bigbluehat",
+      "screen_name": "bigbluehat",
+      "profile_image_url": "//pbs.twimg.com/profile_images/1122951400/logo_on_white_400x400.png"
+    },
+    {
+      "name": "Michael Tiller",
+      "screen_name": "mtiller",
+      "profile_image_url": "//pbs.twimg.com/profile_images/414946954/manga_headshot_medium_400x400.png"
+    },
+    {
+      "name": "Jason Desrosiers",
+      "screen_name": "jasondesrosiers",
+      "profile_image_url": "//pbs.twimg.com/profile_images/439996213639643137/7Ee0jMLR_400x400.jpeg"
+    },
+    {
+      "name": "Ben Greenberg",
+      "screen_name": "bengreen",
+      "profile_image_url": "//pbs.twimg.com/profile_images/481791490570469377/0KqJXGEU_400x400.jpeg"
+    },
+    {
+      "name": "Bethany Oestrich",
+      "screen_name": "bethanyoestrich",
+      "profile_image_url": "//pbs.twimg.com/profile_images/970131439441227776/uwYTMJwH_400x400.jpg"
+    },
+    {
+      "name": "Adam	Magaluk",
+      "screen_name": "AdamMagaluk",
+      "profile_image_url": "//pbs.twimg.com/profile_images/378800000391729297/313d84992c62e932f21d3bd979f9d2cf_400x400.jpeg"
+    },
+    {
+      "name": "Michael Hibay",
+      "screen_name": "hibaymj",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/847533219503329281/hcn251c4_400x400.jpg"
+    }
+  ]
+}

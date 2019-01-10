@@ -1,0 +1,59 @@
+---
+layout: east-page
+title: Sponsors
+weight: 35
+---
+
+<h1>
+  Our Awesome Sponsors
+  <a class="ui right floated large button" href="mailto:info@restfest.org">
+    <i class="icon mail"></i> Email us for a Prospectus
+  </a>
+</h1>
+<div class="ui segments">
+  <div class="ui segment items">
+    <h2 class="faded">HEAD (videography) Sponsor</h2>
+    {% include sponsorship-item.html event="east" level="HEAD" %}
+  </div>
+  <div class="ui segment items">
+    <h2 class="ui header faded">POST</h2>
+    <div class="ui top aligned smedium images">
+      {% include sponsorship-image.html event="east" level="POST" %}
+    </div>
+  </div>
+  <div class="ui segment items">
+    <h2 class="ui header faded">PATCH</h2>
+    <div class="ui top aligned medium images">
+      {% include sponsorship-image.html event="east" level="PATCH" %}
+    </div>
+  </div>
+  <div class="ui segment items">
+    <h2 class="ui two column grid faded">
+      <div class="column">PUT</div>
+    </h2>
+    <div class="ui top aligned smedium images">
+      {% include sponsorship-image.html event="east" level="PUT" %}
+    </div>
+  </div>
+  <div class="ui segment items">
+    <h2 class="ui two column grid faded">
+      <div class="column">GET</div>
+    </h2>
+    <div class="ui top aligned small images">
+      {% include sponsorship-image.html event="east" level="GET" %}
+    </div>
+  </div>
+  <div class="ui segment items">
+    <h2 class="ui two column grid" id="friends">
+      <div class="column faded">rel="friend"</div>
+      <div class="right aligned column">
+        <tito-button event="rest-fest/rest-fest-east-2018" class="ui button">Add it with your registration!</tito-button>
+      </div>
+    </h2>
+    <div class="ui item">
+      <div class="content">
+        {% include sponsor-avatars.html event="east" level="rel_friend" %}
+      </div>
+    </div>
+  </div>
+</div>

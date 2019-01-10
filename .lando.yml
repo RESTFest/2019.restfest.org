@@ -1,0 +1,15 @@
+name: restfest
+recipe: custom
+config:
+  webroot: .
+
+services:
+  appserver:
+    type: ruby
+    install_dependencies_as_me:
+      - gem install jekyll bundler
+    command: bundle exec jekyll serve --port 80
+
+proxy:
+  appserver:
+    - restfest.lndo.site

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "marker-color": "#a5cb39",
+    "marker-size": "medium",
+    "marker-symbol": "",
+    "title": "REST Fest US @ 1 N Main St."
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.4015449,
+      34.8511285
+    ]
+  }
+}

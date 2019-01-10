@@ -1,0 +1,10 @@
+{% assign pages = site.pages | sort:"weight" | where_exp:"page", "page.url contains 'midwest/'" %}
+{% for p in pages %}
+{% unless p.hidden %}
+<a class="item {% if p.url == page.url %}active{% endif %}" href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+{% endunless %}
+{% endfor %}
+
+{% if site.data.midwest.wiki %}
+<a class="item" href="{{ site.data.midwest.wiki }}" target="_blank">Wiki</a>
+{% endif %}
