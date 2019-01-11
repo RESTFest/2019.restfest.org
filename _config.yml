@@ -15,3 +15,6 @@ twitter_username: restfest
 github_username:  restfest
 # Build settings
 markdown: kramdown
+
+exclude:
+  - east/
