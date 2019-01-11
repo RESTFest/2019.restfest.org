@@ -1,0 +1,10 @@
+{% assign pages = site.pages | sort:"weight" | where_exp:"page", "page.url contains 'eu/'" %}
+{% for p in pages %}
+{% unless p.hidden %}
+<a class="item {% if p.url == page.url %}active{% endif %}" href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+{% endunless %}
+{% endfor %}
+
+{% if site.data.eu.wiki %}
+<a class="item" href="{{ site.data.eu.wiki }}" target="_blank">Wiki</a>
+{% endif %}
