@@ -16,5 +16,15 @@
     ]
   },
   "speakers": [
+    {
+      "name": "Shelby Switzer",
+      "screen_name": "switzerly",
+      "profile_image_url": "//pbs.twimg.com/profile_images/886406345762590720/yRxm0eWA_400x400.jpg"
+    },
+    {
+      "name": "Tomasz Pluskiewicz",
+      "screen_name": "tpluscode",
+      "profile_image_url": "//pbs.twimg.com/profile_images/684777938785558529/iw_oqgCU_400x400.jpg"
+    }
   ]
 }
