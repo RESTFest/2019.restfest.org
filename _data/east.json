@@ -151,5 +151,13 @@
       "screen_name": "Stephen_Mizell",
       "profile_image_url": "//pbs.twimg.com/profile_images/1039887663891853314/BxvL_qAs_400x400.jpg"
     }
-  ]
+  ],
+  "credits": {
+    "header_image": {
+      "author": {
+        "url": "https://www.flickr.com/photos/superfly_photography/12522557434/in/photolist-k5xmhP-k5zKb1-k5zo3E-hTKAqj-fQtYqX-fkuAWY-fiZdk2-fjetTU-einXcG-ehguGu-ehgtSW-eg9dV7-eg3jTi-eg938w-eg927A-efLnLn",
+        "label": "flickr.com/superfly_photography"
+      }
+    }
+  }
 }
