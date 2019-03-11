@@ -26,5 +26,14 @@
       "screen_name": "tpluscode",
       "profile_image_url": "//pbs.twimg.com/profile_images/684777938785558529/iw_oqgCU_400x400.jpg"
     }
-  ]
+  ],
+  "credits": {
+    "header_image": {
+      "url": "https://flic.kr/p/ecsQ88",
+      "author": {
+        "url": "https://www.flickr.com/photos/alexander_johmann/",
+        "label": "Alexander Johmann"
+      }
+    }
+  }
 }

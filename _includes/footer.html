@@ -7,12 +7,15 @@
           <div class="ui inverted link list">
             <a href="http://videos.restfest.org/" class="item">Video Project</a>
             <div class="ui divider"></div>
-            {% if page.layout == "midwest" %}
-            <small><a rel="nofollow" href="https://flic.kr/p/AJdK37">header photo</a> by
-              <a rel="nofollow" href="https://www.flickr.com/photos/73784413@N00/">flickr.com/amtrak_russ</a></small>
-            {% else %}
-            <small>header photo by <a rel="nofollow" href="https://www.flickr.com/photos/superfly_photography/12522557434/in/photolist-k5xmhP-k5zKb1-k5zo3E-hTKAqj-fQtYqX-fkuAWY-fiZdk2-fjetTU-einXcG-ehguGu-ehgtSW-eg9dV7-eg3jTi-eg938w-eg927A-efLnLn">flickr.com/superfly_photography</a></small>
-            {% endif %}
+            <small>
+              {% if site.data[page.layout].credits.header_image.url %}
+              <a rel="nofollow" href="{{ site.data[page.layout].credits.header_image.url }}">header photo</a>
+              {% else %}
+              header photo
+              {% endif %}
+              by
+              <a rel="nofollow" href="{{ site.data[page.layout].credits.header_image.author.url }}">{{ site.data[page.layout].credits.header_image.author.label }}</a>
+            </small>
           </div>
         </div>
         <div class="three wide column">
@@ -40,7 +43,7 @@
       </div>
     </div>
   </div>
-</div>
+  </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/1.0.21/vue.min.js"></script>
