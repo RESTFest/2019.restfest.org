@@ -52,6 +52,11 @@ div[typeof=Event] h3 {
     background-position: center;
 }
 
+.ui.masthead.masthead--east {
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('/images/wroclaw-salt-market.jpg');
+    background-position: center;
+}
+
 .ui.horizontal.list .item {
     margin-bottom: 1em;
 }
