@@ -17,5 +17,5 @@ Not necessarily. Participants can talk about anything API, even GraphQL or SOAP 
 In fact, you can present anything you find exciting:
 the biggest challenge they're facing, a cool tool they've used or built, or lessons 
 learned from working on a new team - or none of the above. Sometimes a participant simply 
-poses a question to the entire group, and lively conversation ensues. Finally, API-related
-subjects are preferred but there have been exceptions too.
+poses a question to the entire group, and lively conversation ensues. Surely, API-related
+subjects are preferred but there have been exceptions indeed.
