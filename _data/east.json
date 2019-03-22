@@ -11,13 +11,6 @@
     "PUT": [
     ],
     "GET": [
-    ],
-    "rel_friend": [
-      {
-        "name": "ExVenture",
-        "url": "https://github.com/oestrich/ex_venture",
-        "image": "https://exventure.org/images/exventure.png"
-      }
     ]
   },
   "speakers": [
