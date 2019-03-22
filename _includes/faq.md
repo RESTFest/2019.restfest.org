@@ -1,6 +1,6 @@
 ## FAQ
 
-### Why is there no agenda?
+### Why is there no agenda or CFP?
 
 We call this "Everybody talks everybody listens"™️.
 Each participant is given a slot to present the subject of their choosing. 
