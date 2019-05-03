@@ -11,6 +11,18 @@
     "PUT": [
     ],
     "GET": [
+    ],
+    "community": [
+      {
+        "name": "Wrocławska Grupa .NET",
+        "url": "https://wrocnet.org/",
+        "image": "https://github.com/wrocnet/wrocnet.github.io/raw/master/images/logo-small.jpg"
+      },
+      {
+        "name": "Wrocław Java User Group",
+        "url": "http://wroclaw.jug.pl",
+        "image": "http://wroclaw.jug.pl/logo/WroclawJUG_bez_napisu.png"
+      }
     ]
   },
   "speakers": [
