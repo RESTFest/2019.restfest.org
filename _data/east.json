@@ -5,6 +5,11 @@
     "HEAD": [
     ],
     "PATCH": [
+      {
+        "name": "OpenAPI Intiative",
+        "url": "https://www.openapis.org/",
+        "image": "/images/openapis.png"
+      }
     ],
     "POST": [
     ],
