@@ -7,6 +7,7 @@
     "PATCH": [
       {
         "name": "OpenAPI Intiative",
+        "description": "The OpenAPI Initiative (OAI) is a consortium of forward-looking industry experts who recognize the immense value of standardizing on how REST APIs are described.",
         "url": "https://www.openapis.org/",
         "image": "/images/openapis.png"
       }
