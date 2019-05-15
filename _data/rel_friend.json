@@ -2,14 +2,19 @@
   "sponsors": {
     "rel_friend": [
       {
+        "name": "Pamela Wood Browne",
+        "url": "https://twitter.com/fancybike",
+        "image": "https://pbs.twimg.com/profile_images/850435028609896450/z7ngyOPz_400x400.jpg"
+      },
+      {
         "name": "ExVenture",
         "url": "https://github.com/oestrich/ex_venture",
         "image": "https://exventure.org/images/exventure.png"
       },
       {
-        "name": "Pamela Wood Browne",
-        "url": "https://twitter.com/fancybike",
-        "image": "https://pbs.twimg.com/profile_images/850435028609896450/z7ngyOPz_400x400.jpg"
+        "name": "BigBlueHat",
+        "url": "https://twitter.com/bigbluehat",
+        "image": "https://pbs.twimg.com/profile_images/1122951400/logo_on_white_400x400.png"
       }
     ]
   }
