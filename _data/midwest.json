@@ -13,6 +13,11 @@
       }
     ],
     "POST": [
+      {
+        "name": "SmartLogic",
+        "url": "https://smartlogic.io/",
+        "image": "/images/smartlogic.png"
+      }
     ],
     "PUT": [
     ],
