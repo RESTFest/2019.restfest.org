@@ -3,6 +3,12 @@
   "wiki": "https://github.com/RESTFest/2019-EU/wiki",
   "sponsors": {
     "HEAD": [
+      {
+        "name": "Zazuko GmbH",
+        "description": "Zazuko is a consulting company for Semantic Web and related technologies. Based on profound experience, we support our customers in successfully developing software based on the Linked Data stack.",
+        "url": "https://zazuko.com/",
+        "image": "/images/zazuko.png"
+      }
     ],
     "PATCH": [
       {
