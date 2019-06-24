@@ -48,8 +48,9 @@ div[typeof=Event] h3 {
 }
 
 .ui.masthead.masthead--east {
-    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('/images/skyline-east.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('/images/skyline-east-2019.jpg');
     background-position: center;
+    background-size: cover;
 }
 
 .ui.masthead.masthead--eu {
