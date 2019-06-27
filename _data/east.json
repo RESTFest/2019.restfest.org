@@ -21,6 +21,11 @@
         "name": "SmartLogic",
         "url": "https://smartlogic.io/",
         "image": "/images/smartlogic.png"
+      },
+      {
+        "name": "Moraware",
+        "url": "https://moraware.com/",
+        "image": "/images/moraware.png"
       }
     ]
   },

@@ -22,6 +22,11 @@
     "PUT": [
     ],
     "GET": [
+      {
+        "name": "Moraware",
+        "url": "https://moraware.com/",
+        "image": "/images/moraware.png"
+      }
     ]
   },
   "speakers": [
