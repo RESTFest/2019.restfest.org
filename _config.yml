@@ -7,7 +7,7 @@
 
 # Site settings
 title: REST Fest - RESTful Web Services Unconference
-email: ben@nocarrier.co.uk
+email: info@restfest.org
 description: REST Fest is an unconference developed by Mike Amundsen and Benjamin Young. Our objective is to give people interested in REST, Hypermedia APIs, crafting web service APIs, or any related topics a chance to get together in an informal setting to  share ideas, trade  stories, and show examples of current work.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://restfest.org" # the base hostname & protocol for your site
@@ -15,6 +15,3 @@ twitter_username: restfest
 github_username:  restfest
 # Build settings
 markdown: kramdown
-
-exclude:
-  - east/
