@@ -4,7 +4,7 @@ title: Workshop
 weight: 40
 ---
 
-# Workshop Wednesday! - September 26<sup>th</sup>
+# Workshop Wednesday! - September 25<sup>th</sup>
 
 What are Web APIs and how do you design and build them? And what do all these acronyms mean: REST, CRUD, Hypermedia, GraphQL, AOI, Swagger, RAML, Blueprint, OAuth? Join the REST Fest team for a wide-ranging and in-depth workshop that touches on the basics of Web APIs, what makes them work, and how you can navigate the alphabet soup of standards and practices that make up this essential part of the World Wide Web.
 
