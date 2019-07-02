@@ -13,20 +13,32 @@
       }
     ],
     "POST": [
+      {
+        "name": "CapitalOne DevExchange",
+        "url": "https://developer.capitalone.com/",
+        "image": "/images/capital-one-dev-exchange.png"
+      }
     ],
     "PUT": [
-    ],
-    "GET": [
       {
         "name": "SmartLogic",
         "url": "https://smartlogic.io/",
         "image": "/images/smartlogic.png"
-      },
+      }
+    ],
+    "GET": [
       {
         "name": "Moraware",
         "url": "https://moraware.com/",
         "image": "/images/moraware.png"
+      },
+      {
+        "name": "Zazuko GmbH",
+        "description": "Zazuko is a consulting company for Semantic Web and related technologies. Based on profound experience, we support our customers in successfully developing software based on the Linked Data stack.",
+        "url": "https://zazuko.com/",
+        "image": "/images/zazuko.png"
       }
+
     ]
   },
   "speakers": [
