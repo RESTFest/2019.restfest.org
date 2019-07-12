@@ -15,6 +15,11 @@
         "name": "BigBlueHat",
         "url": "https://twitter.com/bigbluehat",
         "image": "https://pbs.twimg.com/profile_images/1122951400/logo_on_white_400x400.png"
+      },
+      {
+        "name": "Patrick Foley",
+        "url": "https://twitter.com/PatrickFoley",
+        "image": "https://pbs.twimg.com/profile_images/1765071655/pfsquare_200x200.jpg"
       }
     ]
   }
