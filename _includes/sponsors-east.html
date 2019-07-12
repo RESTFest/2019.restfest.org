@@ -17,6 +17,11 @@
     <h4 class="ui medium header">Be our rel="friend"</h4>
     <p>Community humans and projects can get some sponsorship-style promotion on our event sites for just $2 a month!</p>
     <a href="https://www.patreon.com/restfest" class="ui large button">Sign-up on Patreon!</a>
+    {% for sponsor in site.data['rel_friend'].sponsors['rel_friend'] %}
+    <a rel="friend" href="{{ sponsor.url }}">
+      <img class="ui avatar image" src="{{ sponsor.image }}" alt="{{ sponsor.name }}">
+    </a>
+    {% endfor %}
   </div>
   <div class="center aligned column">
     <div class="ui top aligned medium images">
