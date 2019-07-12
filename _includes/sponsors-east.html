@@ -10,10 +10,23 @@
     <a class="ui large button" href="/prospectus.pdf">
       Download our Prospectus
     </a>
+    <a class="ui large primary button" href="sponsors">
+      See all our Sponsors
+    </a>
+    <hr class="ui divider" />
+    <h4 class="ui medium header">Be our rel="friend"</h4>
+    <p>Community humans and projects can get some sponsorship-style promotion on our event sites for just $2 a month!</p>
+    <a href="https://www.patreon.com/restfest" class="ui large button">Sign-up on Patreon!</a>
   </div>
   <div class="center aligned column">
     <div class="ui top aligned medium images">
+      {% include sponsorship-image.html event="east" level="POST" %}
+    </div>
+    <div class="ui top aligned medium images">
       {% include sponsorship-image.html event="east" level="PATCH" %}
+    </div>
+    <div class="ui top aligned medium images">
+      {% include sponsorship-image.html event="east" level="PUT" %}
     </div>
     <div class="ui middle aligned small images">
       {% include sponsorship-image.html event="east" level="GET" %}
