@@ -43,16 +43,6 @@
   },
   "speakers": [
     {
-      "name": "Eric Oestrich",
-      "screen_name": "ericoestrich",
-      "profile_image_url": "//pbs.twimg.com/profile_images/1010752443326521344/BmsDdnm-_400x400.jpg"
-    },
-    {
-      "name": "Shelby Switzer",
-      "screen_name": "switzerly",
-      "profile_image_url": "//pbs.twimg.com/profile_images/1131602360810299392/kx2DLEId_400x400.png"
-    },
-    {
       "name": "bigbluehat",
       "screen_name": "bigbluehat",
       "profile_image_url": "//pbs.twimg.com/profile_images/1122951400/logo_on_white_400x400.png"
@@ -66,6 +56,26 @@
       "name": "Ryan McAllen",
       "screen_name": "rhynodesigns",
       "profile_image_url": "//pbs.twimg.com/profile_images/852305333259206656/9f5nm_gA_400x400.jpg"
+    },
+    {
+      "name": "Shelby Switzer",
+      "screen_name": "switzerly",
+      "profile_image_url": "//pbs.twimg.com/profile_images/1131602360810299392/kx2DLEId_400x400.png"
+    },
+    {
+      "name": "Eric Oestrich",
+      "screen_name": "ericoestrich",
+      "profile_image_url": "//pbs.twimg.com/profile_images/1010752443326521344/BmsDdnm-_400x400.jpg"
+    },
+    {
+      "name": "Lorinda Brandon",
+      "screen_name": "lindybrandon",
+      "profile_image_url": "//2019.restfest.org/images/lorinda-brandon.jpg"
+    },
+    {
+      "name": "Kevin Dees",
+      "screen_name": "kevindees",
+      "profile_image_url": "//pbs.twimg.com/profile_images/911774439213219841/lCMLn6v3_400x400.jpg"
     }
   ],
   "credits": {
