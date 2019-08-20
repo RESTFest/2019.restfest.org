@@ -37,8 +37,12 @@
         "description": "Zazuko is a consulting company for Semantic Web and related technologies. Based on profound experience, we support our customers in successfully developing software based on the Linked Data stack.",
         "url": "https://zazuko.com/",
         "image": "/images/zazuko.png"
-      }
-
+      },
+      {
+        "name": "Earnnest",
+        "url": "https://www.earnnest.com/",
+        "image": "/images/earnnest.svg"
+      },
     ]
   },
   "speakers": [
