@@ -43,6 +43,11 @@
         "url": "https://www.earnnest.com/",
         "image": "/images/earnnest.svg"
       },
+      {
+        "name": "Wiley",
+        "url": "https://www.wiley.com/",
+        "image": "/images/wiley.png"
+      }
     ]
   },
   "speakers": [
