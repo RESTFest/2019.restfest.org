@@ -47,6 +47,11 @@
         "name": "Wiley",
         "url": "https://www.wiley.com/",
         "image": "/images/wiley.png"
+      },
+      {
+        "name": "Manning",
+        "url": "https://www.manning.com/",
+        "image": "/images/manning.png"
       }
     ]
   },
