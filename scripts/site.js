@@ -32,6 +32,13 @@
       // embed videos
       $('.ui.embed').embed();
 
+      // hash fragment tab selection
+      $('.ui.menu .item')
+        .tab({
+          history: true,
+          historyType: 'hash'
+        })
+      ;
     })
   ;
 
