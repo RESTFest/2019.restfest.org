@@ -39,6 +39,29 @@
           historyType: 'hash'
         })
       ;
+
+      let d = new Date();
+      if (d.getFullYear() === 2019 && d.getMonth() === 8) {
+        let tab = 'wednesday';
+        switch (d.getDate()) {
+          case 28:
+            tab = 'saturday';
+            break;
+          case 27:
+            tab = 'friday';
+            break;
+          case 26:
+            tab = 'thursday';
+            break;
+          case 25:
+          default:
+            tab = 'wednesday';
+            break;
+        }
+        console.log('tab', tab);
+        $('.ui.menu .item')
+          .tab('set state', `/${tab}`);
+      }
     })
   ;
 
