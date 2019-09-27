@@ -52,6 +52,11 @@
         "name": "Manning",
         "url": "https://www.manning.com/",
         "image": "/images/manning.png"
+      },
+      {
+        "name": "OpenWorks",
+        "url": "https://www.joinopenworks.com/",
+        "image": "/images/openworks.png"
       }
     ]
   },
