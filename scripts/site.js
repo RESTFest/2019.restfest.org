@@ -41,7 +41,7 @@
       ;
 
       let d = new Date();
-      if (d.getFullYear() === 2019 && d.getMonth() === 8) {
+      if (location.hash === "" && d.getFullYear() === 2019 && d.getMonth() === 8) {
         let tab = 'wednesday';
         switch (d.getDate()) {
           case 28:
